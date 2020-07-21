@@ -14,4 +14,4 @@ Basic realtime chat using node.js(express) and socket.io
 * Clone projet to your computer ```git clone "https://github.com/AfiHisam/Basic-Realtime-Chat"```
 * Go to the server directory
 * Run ```npm install```
-* On your terminal type ```npm run dev``` to start server on 3000 port. 
+* On your terminal type ```npm run dev``` to start server on port 3000 . 
